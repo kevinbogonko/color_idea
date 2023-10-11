@@ -1,0 +1,43 @@
+#32CD32 - lime green - buttons
+white containers
+grey-white background
+darkgray font
+palegray font
+
+=====================================
+
+
+Dark font
+pale gray font
+purple/violet - buttons - highlighting/cards - variations
+more pale green - cards
+white containers
+grey-white background
+
+
+========================================
+
+blue - variation - highlighting
+dark font - heading
+pale gray - sub heading
+green and yellow for statuses
+
+
+===========================================
+
+###########dashboard################
+
+dark background - side bar menu
+grey-with heading
+yellow/blue/pink/violet/purple - heading icons
+red/green - progress
+dark and pale grey font
+green/violet - barchart strips
+
+===========================================
+blue
+white
+dark
+greyish-white
+
+=============================
